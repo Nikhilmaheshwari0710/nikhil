@@ -1,0 +1,23 @@
+.red
+{
+    width:20px;
+    height:20px;
+    border-radius:5px;
+    background-color: brown;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.blue
+{
+    width:20px;
+    height:20px;
+    border-radius:5px;
+    background-color: darkblue;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.singleline
+{
+    display: flex;
+}
